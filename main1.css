@@ -1,0 +1,25 @@
+.flex{
+	display:flex;
+	border:solid;
+	flex-direction:column;
+	width: 70%;
+	vertical-align: middle;
+	margin-left:auto;
+	margin-right: auto;
+}
+h1{
+	color:lightgreen;
+	text-align:center;
+}
+h2{
+	background-color: red;
+	display:block;
+}
+p{
+	font-size:23px;
+	color:pink;
+}
+table,tr,td,th{
+	border:solid;
+	text-align: center;
+}

@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective": "all are true"	
+	},
+	"education":[
+		{
+			"degree":"b.tech(computer science of engineering)",
+			"college":"sir CRR engineering college",
+			"data":["2015-19","75%"]
+		},
+		{
+			"degree":"intermediate",
+			"college":"narayana",
+			"data":["2013-15","77%"],
+		},
+		{
+			"degree":"ssc",
+			"college":"s.p.g.r",
+			"data":["2012-13","80%"]
+		}
+	]
+}
